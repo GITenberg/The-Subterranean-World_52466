@@ -1,0 +1,41 @@
+_repo: The-Subterranean-World_52466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartwig, G. (Georg)
+    aliases:
+    - Hartwig, George
+    - Hartwig, Georg
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '46868'
+    url: http://www.gutenberg.org/2009/agents/46868
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52466'
+  lccn: '17019337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Mines and mineral resources'
+- !lcsh 'Geology'
+- !lcsh 'Caves'
+- GITenberg
+tableOfContents: Geological revolutions -- Fossils -- Subterranean heat -- Subterranean
+  upheavals and depressions -- Subterranean waters and artesian wells -- Volcanoes
+  -- Destruction of Herculaneum and Pompeii -- Gas springs and mud volcanoes -- Earthquakes
+  -- The great earthquake of Lisbon -- Landslips -- On caves in general -- Cave rivers
+  -- Subterranean life -- Caves as places of refuge -- Hermit caves; rock temples;
+  rock churches -- Ice-caves and wind-holes -- Rock tombs and catacombs -- Caves containing
+  remains of extinct animals -- Subterranean relics of prehistoric man -- Troglodytes
+  or cave-dwellers; cannibal caves -- Tunnels -- On mines in general -- Gold -- Silver
+  -- Copper -- Tin -- Iron -- Lead -- Mercury -- The new metals -- Coal -- Bituminous
+  substances -- Salt -- Sulphur -- Amber -- Miscellaneous mineral substances used
+  in the industrial arts -- Celebrated quarries -- Precious stones.
+title: The Subterranean World
+url: http://www.gutenberg.org/ebooks/52466
